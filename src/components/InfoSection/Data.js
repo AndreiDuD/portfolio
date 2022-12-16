@@ -20,7 +20,7 @@ export const homeObjTwo = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: "PUnlimited Access",
+  topLine: "Unlimited Access",
   headline: "Unlimited Transactions zero fees",
   description: "Get access to our exclusive content",
   buttonLabel: "Learn More",
